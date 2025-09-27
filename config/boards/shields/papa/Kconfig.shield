@@ -1,2 +1,2 @@
 config SHIELD_PAPA
-    def_bool $(shields_list_contains, papa)
+    def_bool $(shields_list_contains,papa)
