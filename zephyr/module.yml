@@ -1,3 +1,4 @@
+name: papa
 build:
   settings:
     board_root: .
